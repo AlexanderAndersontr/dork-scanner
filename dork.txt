@@ -1,0 +1,3 @@
+inurl:.php?id= site:gr
+inurl:.php?id= site:gz
+inurl:.php?id= site:sa

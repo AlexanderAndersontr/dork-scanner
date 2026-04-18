@@ -1,0 +1,8 @@
+Esenlikler! ben Alex.
+
+1- https://serper.dev/ bu siteye kayıt olup, api'yi 'api.txt' içine yazın.
+2- '-f' ile dork listesini verirsiniz.
+3- '-o' output yani alınan siteleri kaydetme, eğer kaydetmek istiyorsanız bunu ekleyebilirsiniz
+
+Örnek:
+    python main.py -f dorks.txt -o

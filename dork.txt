@@ -1,3 +1,6 @@
-inurl:.php?id= site:gr
-inurl:.php?id= site:gz
-inurl:.php?id= site:sa
+inurl:admin/login.php site:rs
+inurl:admin/login.php site:gov.rs
+inurl:admin/login.php site:ug
+inurl:admin/login.php site:gov.ug
+inurl:admin/login.php site:uk
+inurl:admin/login.php site:gov.uk
